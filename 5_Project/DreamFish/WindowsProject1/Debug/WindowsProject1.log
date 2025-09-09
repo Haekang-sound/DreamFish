@@ -1,0 +1,66 @@
+﻿  CBattery.cpp
+  CButtonStart.cpp
+  CButtonQuit.cpp
+  CAnimator.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\CAnimator.cpp(110,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\CAnimator.cpp(109,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CBackGround.cpp
+  CButtonTitle.cpp
+  CCamera.cpp
+  CCollider.cpp
+  CCollisionManager.cpp
+  CEnd.cpp
+  CGameProcess.cpp
+  CEventManager.cpp
+  CFish.cpp
+  CKeyManager.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\CKeyManager.cpp(149,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\CKeyManager.cpp(149,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CLogo.cpp
+  CObject.cpp
+  CPathManager.cpp
+  CPlayer.cpp
+  CResource.cpp
+  CResManager.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CScene.cpp
+  CSceneManager.cpp
+  CSceneStart.cpp
+  DoorKey.cpp
+  FakeWallLeftRight.cpp
+  FakeWallUpDown.cpp
+  KeyDoor.cpp
+  Stage1.cpp
+  CSoundManager.cpp
+  CTexture.cpp
+  CTimeManager.cpp
+  CUI.cpp
+  CFishCollider.cpp
+  CLadder.cpp
+  COtherCollider.cpp
+  Door.cpp
+  DoorButton.cpp
+  FishButton.cpp
+  FishDoor.cpp
+  Floor.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  func.cpp
+  GoToNextScene.cpp
+  PlayerWidth.cpp
+  CRock.cpp
+  CSelectGDI.cpp
+  CTitle.cpp
+  CWall.cpp
+  SeaUr.cpp
+  Shark.cpp
+  Stage2.cpp
+  Stage3.cpp
+  Stage4.cpp
+  Stage5.cpp
+  Stage6.cpp
+  Stage7.cpp
+  WindowsProject1.cpp
+  코드를 생성하고 있습니다...
+  WindowsProject1.vcxproj -> E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\Output\bin\WindowsProject1.exe

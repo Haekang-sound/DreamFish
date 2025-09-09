@@ -1,0 +1,59 @@
+#include "pch.h"
+#include "Door.h"
+#include "CTimeManager.h"
+#include "CCollider.h"
+#include "DoorButton.h"
+
+
+Door::Door()
+{
+	CreateCollider();
+	GetCollider()->SetScale(Vecor2(50.f, 200.f));
+}
+
+Door::~Door()
+{
+}
+
+void Door::Update()
+{
+	bool& buttonIsOpen = GetButtonIsOpen(); /// DoorButton의 isOpen 값을 참조 이후 쓰면된다.ㅇ*
+	Vecor2 vPos = GetPos();
+	static Vecor2 originalPosition = vPos; // 문의 원래 위치를 저장하는 변수
+
+	if (buttonIsOpen) 
+	{
+		if (vPos.y > originalPosition.y - 300.f) // 문이 아직 최대 높이에 도달하지 않은 경우
+		{
+			vPos.y -= 300.f * fDT; // 일정한 속도로 올림
+		}
+	}
+	if(!buttonIsOpen)
+	{
+		if (vPos.y < originalPosition.y) // 문이 원래 위치에 도달하지 않은 경우
+		{
+			vPos.y += 300.f * fDT; // 일정한 속도로 내림
+		}
+	}
+
+
+	SetPos(vPos);
+
+}
+
+void Door::OnCollisionEnter(CCollider* _pOther)
+{
+
+}
+
+void Door::OnCollision(CCollider* _pOther)
+{
+
+}
+
+
+void Door::OnCollisionExit(CCollider* _pOther)
+{
+
+}
+

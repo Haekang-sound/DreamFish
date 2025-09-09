@@ -1,0 +1,69 @@
+﻿  CBattery.cpp
+  CButtonStart.cpp
+  CButtonQuit.cpp
+  CAnimator.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\1Q\5_Project\DreamFish\WindowsProject1\CAnimator.cpp(110,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\자료\SVN\인재원\인재원 프로젝트\1Q\5_Project\DreamFish\WindowsProject1\CAnimator.cpp(109,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CBackGround.cpp
+  CButtonTitle.cpp
+  CCamera.cpp
+  CCollider.cpp
+  CCollisionManager.cpp
+  CEnd.cpp
+  CGameProcess.cpp
+  CEventManager.cpp
+  CFish.cpp
+  CKeyManager.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\1Q\5_Project\DreamFish\WindowsProject1\CKeyManager.cpp(149,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\자료\SVN\인재원\인재원 프로젝트\1Q\5_Project\DreamFish\WindowsProject1\CKeyManager.cpp(149,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CLogo.cpp
+  CObject.cpp
+  CPathManager.cpp
+  CPlayer.cpp
+  CResource.cpp
+  CResManager.cpp
+  CScene.cpp
+  CSceneManager.cpp
+  CSceneStart.cpp
+  DoorKey.cpp
+  FakeWallLeftRight.cpp
+  FakeWallUpDown.cpp
+  KeyDoor.cpp
+  Stage1.cpp
+  CSoundManager.cpp
+  CTexture.cpp
+  CTimeManager.cpp
+  CUI.cpp
+  CFishCollider.cpp
+  CLadder.cpp
+  COtherCollider.cpp
+  Door.cpp
+  DoorButton.cpp
+  FishButton.cpp
+  FishDoor.cpp
+  Floor.cpp
+  func.cpp
+  GoToNextScene.cpp
+  PlayerWidth.cpp
+  CRock.cpp
+  CSelectGDI.cpp
+  CTitle.cpp
+  CWall.cpp
+  SeaUr.cpp
+  Shark.cpp
+  Stage2.cpp
+  Stage3.cpp
+  Stage4.cpp
+  Stage5.cpp
+  Stage6.cpp
+  Stage7.cpp
+  WindowsProject1.cpp
+CSoundManager.obj : error LNK2019: FMOD_System_Create"enum FMOD_RESULT __cdecl FMOD::System_Create(class FMOD::System * *,unsigned int)" (?System_Create@FMOD@@YA?AW4FMOD_RESULT@@PEAPEAVSystem@1@I@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::release(void)" (?release@System@FMOD@@QEAA?AW4FMOD_RESULT@@XZ)"public: void __cdecl CSoundManager::ReleaseMusic(void)" (?ReleaseMusic@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::init(int,unsigned int,void *)" (?init@System@FMOD@@QEAA?AW4FMOD_RESULT@@HIPEAX@Z)"public: void __cdecl CSoundManager::SoundSetUp(void)" (?SoundSetUp@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::createSound(char const *,unsigned int,struct FMOD_CREATESOUNDEXINFO *,class FMOD::Sound * *)" (?createSound@System@FMOD@@QEAA?AW4FMOD_RESULT@@PEBDIPEAUFMOD_CREATESOUNDEXINFO@@PEAPEAVSound@2@@Z)"public: void __cdecl CSoundManager::SoundSetUp(void)" (?SoundSetUp@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::playSound(class FMOD::Sound *,class FMOD::ChannelGroup *,bool,class FMOD::Channel * *)" (?playSound@System@FMOD@@QEAA?AW4FMOD_RESULT@@PEAVSound@2@PEAVChannelGroup@2@_NPEAPEAVChannel@2@@Z)"public: void __cdecl CSoundManager::PlayLoop(enum SOUND_TRACK)" (?PlayLoop@CSoundManager@@QEAAXW4SOUND_TRACK@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::ChannelControl::stop(void)" (?stop@ChannelControl@FMOD@@QEAA?AW4FMOD_RESULT@@XZ)"public: void __cdecl CSoundManager::StopMusic(void)" (?StopMusic@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::ChannelControl::setPaused(bool)" (?setPaused@ChannelControl@FMOD@@QEAA?AW4FMOD_RESULT@@_N@Z)"public: void __cdecl CSoundManager::PauseMusic(void)" (?PauseMusic@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::ChannelControl::isPlaying(bool *)" (?isPlaying@ChannelControl@FMOD@@QEAA?AW4FMOD_RESULT@@PEA_N@Z)"public: void __cdecl CSoundManager::PlayLoop(enum SOUND_TRACK)" (?PlayLoop@CSoundManager@@QEAAXW4SOUND_TRACK@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+E:\자료\SVN\인재원\인재원 프로젝트\1Q\5_Project\DreamFish\Output\bin_debug\WindowsProject1.exe : fatal error LNK1120: 8개의 확인할 수 없는 외부 참조입니다.

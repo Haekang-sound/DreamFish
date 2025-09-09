@@ -1,0 +1,44 @@
+peakmessage 에 따라
+CCore::GetInst()->progress(); 로 들어간다
+
+TIME, Key, Scene, Collision, camera, 
+render후 bitbit인 더블버퍼링으로 한번에 붙인다.
+
+gettick보다 더 자세한 시간 계산 나노단위로 계산
+
+ifdef
+>> 디버깅할때 시간이 빨리지나가 계산이 안되기 때문에 시간 고정 시켜줬다. 
+endif
+
+key : 키값이 hold,tap,away,none에 따라 달라지고
+
+nullptr이 있으면 아래 조건따지고 hold tap이 결정됨
+눌러져 있을 때 
+막 눌렸을 때랑
+nullptr이 아니면
+눌려져있을 때 막뗐다.
+뗐을 때
+안눌려져있따.
+
+마우스 위치를 POINT 구조체를 담아서 현재 위치를 가지고 있는다.
+ScreenToClient는 그림참고
+
+카메라는
+죽었는지 확인하고 죽었으면 nullptr
+아니면 tragetobj 위치를 잡는다.
+이전위치 현재위치를 보정해서 부드럽게 움직이도록 하는 식
+
+
+Scene 업뎃
+충돌 체크시 
+체크방법은 그림2
+
+충돌 체크를 map으로 했다.
+지우고
+그리고
+time랜더
+이벤트 처리
+생성하는 이벤트
+삭제 이벤트
+신 체인지에 따라 간다.
+
