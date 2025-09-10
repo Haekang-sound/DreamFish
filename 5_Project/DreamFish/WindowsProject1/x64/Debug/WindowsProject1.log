@@ -1,69 +1,224 @@
 ﻿  CBattery.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CBattery.cpp'을(를) 컴파일하는 중)
+  
   CButtonStart.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CButtonStart.cpp'을(를) 컴파일하는 중)
+  
   CButtonQuit.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CButtonQuit.cpp'을(를) 컴파일하는 중)
+  
   CAnimator.cpp
-E:\자료\SVN\인재원\인재원 프로젝트\1Q\5_Project\DreamFish\WindowsProject1\CAnimator.cpp(110,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-E:\자료\SVN\인재원\인재원 프로젝트\1Q\5_Project\DreamFish\WindowsProject1\CAnimator.cpp(109,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CAnimator.cpp'을(를) 컴파일하는 중)
+  
   CBackGround.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CBackGround.cpp'을(를) 컴파일하는 중)
+  
   CButtonTitle.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CButtonTitle.cpp'을(를) 컴파일하는 중)
+  
   CCamera.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CCamera.cpp'을(를) 컴파일하는 중)
+  
   CCollider.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CCollider.cpp'을(를) 컴파일하는 중)
+  
   CCollisionManager.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CCollisionManager.cpp'을(를) 컴파일하는 중)
+  
   CEnd.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CEnd.cpp'을(를) 컴파일하는 중)
+  
   CGameProcess.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CGameProcess.cpp'을(를) 컴파일하는 중)
+  
   CEventManager.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CEventManager.cpp'을(를) 컴파일하는 중)
+  
   CFish.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CFish.cpp'을(를) 컴파일하는 중)
+  
   CKeyManager.cpp
-E:\자료\SVN\인재원\인재원 프로젝트\1Q\5_Project\DreamFish\WindowsProject1\CKeyManager.cpp(149,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-E:\자료\SVN\인재원\인재원 프로젝트\1Q\5_Project\DreamFish\WindowsProject1\CKeyManager.cpp(149,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CKeyManager.cpp'을(를) 컴파일하는 중)
+  
   CLogo.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CLogo.cpp'을(를) 컴파일하는 중)
+  
   CObject.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CObject.cpp'을(를) 컴파일하는 중)
+  
   CPathManager.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CPathManager.cpp'을(를) 컴파일하는 중)
+  
   CPlayer.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CPlayer.cpp'을(를) 컴파일하는 중)
+  
   CResource.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CResource.cpp'을(를) 컴파일하는 중)
+  
   CResManager.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CResManager.cpp'을(를) 컴파일하는 중)
+  
   CScene.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CScene.cpp'을(를) 컴파일하는 중)
+  
   CSceneManager.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CSceneManager.cpp'을(를) 컴파일하는 중)
+  
   CSceneStart.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CSceneStart.cpp'을(를) 컴파일하는 중)
+  
   DoorKey.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'DoorKey.cpp'을(를) 컴파일하는 중)
+  
   FakeWallLeftRight.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'FakeWallLeftRight.cpp'을(를) 컴파일하는 중)
+  
   FakeWallUpDown.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'FakeWallUpDown.cpp'을(를) 컴파일하는 중)
+  
   KeyDoor.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'KeyDoor.cpp'을(를) 컴파일하는 중)
+  
   Stage1.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'Stage1.cpp'을(를) 컴파일하는 중)
+  
   CSoundManager.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CSoundManager.cpp'을(를) 컴파일하는 중)
+  
   CTexture.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CTexture.cpp'을(를) 컴파일하는 중)
+  
   CTimeManager.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CTimeManager.cpp'을(를) 컴파일하는 중)
+  
   CUI.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CUI.cpp'을(를) 컴파일하는 중)
+  
   CFishCollider.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CFishCollider.cpp'을(를) 컴파일하는 중)
+  
   CLadder.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CLadder.cpp'을(를) 컴파일하는 중)
+  
   COtherCollider.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'COtherCollider.cpp'을(를) 컴파일하는 중)
+  
   Door.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'Door.cpp'을(를) 컴파일하는 중)
+  
   DoorButton.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'DoorButton.cpp'을(를) 컴파일하는 중)
+  
   FishButton.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'FishButton.cpp'을(를) 컴파일하는 중)
+  
   FishDoor.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'FishDoor.cpp'을(를) 컴파일하는 중)
+  
   Floor.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'Floor.cpp'을(를) 컴파일하는 중)
+  
   func.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'func.cpp'을(를) 컴파일하는 중)
+  
   GoToNextScene.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'GoToNextScene.cpp'을(를) 컴파일하는 중)
+  
   PlayerWidth.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'PlayerWidth.cpp'을(를) 컴파일하는 중)
+  
   CRock.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CRock.cpp'을(를) 컴파일하는 중)
+  
   CSelectGDI.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CSelectGDI.cpp'을(를) 컴파일하는 중)
+  
   CTitle.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CTitle.cpp'을(를) 컴파일하는 중)
+  
   CWall.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'CWall.cpp'을(를) 컴파일하는 중)
+  
   SeaUr.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'SeaUr.cpp'을(를) 컴파일하는 중)
+  
   Shark.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'Shark.cpp'을(를) 컴파일하는 중)
+  
   Stage2.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'Stage2.cpp'을(를) 컴파일하는 중)
+  
   Stage3.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'Stage3.cpp'을(를) 컴파일하는 중)
+  
   Stage4.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'Stage4.cpp'을(를) 컴파일하는 중)
+  
   Stage5.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'Stage5.cpp'을(를) 컴파일하는 중)
+  
   Stage6.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'Stage6.cpp'을(를) 컴파일하는 중)
+  
   Stage7.cpp
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'Stage7.cpp'을(를) 컴파일하는 중)
+  
   WindowsProject1.cpp
-CSoundManager.obj : error LNK2019: FMOD_System_Create"enum FMOD_RESULT __cdecl FMOD::System_Create(class FMOD::System * *,unsigned int)" (?System_Create@FMOD@@YA?AW4FMOD_RESULT@@PEAPEAVSystem@1@I@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
-CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::release(void)" (?release@System@FMOD@@QEAA?AW4FMOD_RESULT@@XZ)"public: void __cdecl CSoundManager::ReleaseMusic(void)" (?ReleaseMusic@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
-CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::init(int,unsigned int,void *)" (?init@System@FMOD@@QEAA?AW4FMOD_RESULT@@HIPEAX@Z)"public: void __cdecl CSoundManager::SoundSetUp(void)" (?SoundSetUp@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
-CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::createSound(char const *,unsigned int,struct FMOD_CREATESOUNDEXINFO *,class FMOD::Sound * *)" (?createSound@System@FMOD@@QEAA?AW4FMOD_RESULT@@PEBDIPEAUFMOD_CREATESOUNDEXINFO@@PEAPEAVSound@2@@Z)"public: void __cdecl CSoundManager::SoundSetUp(void)" (?SoundSetUp@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
-CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::playSound(class FMOD::Sound *,class FMOD::ChannelGroup *,bool,class FMOD::Channel * *)" (?playSound@System@FMOD@@QEAA?AW4FMOD_RESULT@@PEAVSound@2@PEAVChannelGroup@2@_NPEAPEAVChannel@2@@Z)"public: void __cdecl CSoundManager::PlayLoop(enum SOUND_TRACK)" (?PlayLoop@CSoundManager@@QEAAXW4SOUND_TRACK@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
-CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::ChannelControl::stop(void)" (?stop@ChannelControl@FMOD@@QEAA?AW4FMOD_RESULT@@XZ)"public: void __cdecl CSoundManager::StopMusic(void)" (?StopMusic@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
-CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::ChannelControl::setPaused(bool)" (?setPaused@ChannelControl@FMOD@@QEAA?AW4FMOD_RESULT@@_N@Z)"public: void __cdecl CSoundManager::PauseMusic(void)" (?PauseMusic@CSoundManager@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
-CSoundManager.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::ChannelControl::isPlaying(bool *)" (?isPlaying@ChannelControl@FMOD@@QEAA?AW4FMOD_RESULT@@PEA_N@Z)"public: void __cdecl CSoundManager::PlayLoop(enum SOUND_TRACK)" (?PlayLoop@CSoundManager@@QEAAXW4SOUND_TRACK@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
-E:\자료\SVN\인재원\인재원 프로젝트\1Q\5_Project\DreamFish\Output\bin_debug\WindowsProject1.exe : fatal error LNK1120: 8개의 확인할 수 없는 외부 참조입니다.
+E:\자료\SVN\인재원\인재원 프로젝트\DreamFish\5_Project\DreamFish\WindowsProject1\fmod.hpp(14,10): error C1083: 포함 파일을 열 수 없습니다. 'fmod_common.h': No such file or directory
+  (소스 파일 'WindowsProject1.cpp'을(를) 컴파일하는 중)
+  

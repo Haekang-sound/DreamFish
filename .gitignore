@@ -1,32 +1,29 @@
-# Prerequisites
-*.d
-#alskdfj;alksdjf
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
 
-# Precompiled Headers
-*.gch
-*.pch
+# Build results
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+x64/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Rider
+.idea/
 
-# Fortran module files
-*.mod
-*.smod
+# Build files
+*.tlog
+*.pdb
+*.idb
+*.ipdb
+*.iobj
+*.log
+*.vsidx
+*.recipe
+*.res
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Other
+*.opendb
