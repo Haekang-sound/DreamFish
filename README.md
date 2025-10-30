@@ -4,7 +4,7 @@
 # 콘솔 미니게임 프로젝트 : 꿈물고기(DreamFish)
 
 실행환경 : 86x, (Debug/Release)\
-실행파일 : WindowsProject1.exe\
+실행파일 : WindowsProject1.exe
 
 ## 1. 프로젝트 개요
    C언어를 학습하고 진행한 팀프로젝트입니다. 
